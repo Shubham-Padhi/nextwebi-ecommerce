@@ -1,7 +1,3 @@
-
-<img src="../react-ecommerce-main/src/Images/Screenshot 2024-08-07 105940.png" alt="" width="600" height="600">
-<img src="../react-ecommerce-main/src/Images/Screenshot 2024-08-07 105955.png" alt=""   width="600" height="600">
-
 ## 😎 Features
 
 - Beauty UI similar to ecommerce website
