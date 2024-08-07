@@ -1,6 +1,6 @@
 
-<img src="../react-ecommerce-main/src/Images/Screenshot 2024-08-07 105940.png" alt="" width="1000" height="700">
-<img src="../react-ecommerce-main/src/Images/Screenshot 2024-08-07 105955.png" alt=""   width="1000" height="700">
+<img src="../react-ecommerce-main/src/Images/Screenshot 2024-08-07 105940.png" alt="" width="600" height="600">
+<img src="../react-ecommerce-main/src/Images/Screenshot 2024-08-07 105955.png" alt=""   width="600" height="600">
 
 ## 😎 Features
 
