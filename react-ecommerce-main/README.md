@@ -1,12 +1,8 @@
 
-<img src="../react-ecommerce-main/src/Images/Screenshot 2024-08-07 105940.png" alt="Girl in a jacket" width="500" height="600">
-<img src="../react-ecommerce-main/src/Images/Screenshot 2024-08-07 105955.png" alt="Girl in a jacket" width="500" height="600">
+<img src="../react-ecommerce-main/src/Images/Screenshot 2024-08-07 105940.png" alt="Girl in a jacket" width="1000" height="600">
+<img src="../react-ecommerce-main/src/Images/Screenshot 2024-08-07 105955.png" alt="Girl in a jacket" width="1000" height="600">
 
 
-
-# Maltimart Ecommerce>
-## 📌 Live Demo
-https://multimart-ecommerce.onrender.com
 
 ## 😎 Features
 
