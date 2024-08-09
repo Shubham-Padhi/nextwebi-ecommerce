@@ -20,10 +20,10 @@ From your command line, first clone this repo:
 
 ```
 # Clone this repository
-$ https://github.com/0mar-helal/multimart-react-ecommerce.git
+$https://github.com/Shubham-Padhi/nextwebi-ecommerce.git
 
 # Go into the repository
-$ cd multimart-react-ecommerce
+$ cd nextwebi-ecommerce
 
 # Remove current origin repository
 $ git remote remove origin
